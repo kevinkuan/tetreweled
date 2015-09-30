@@ -1,0 +1,1 @@
+This is my final project for 15-112. It is a game that behaves like a cross between Tetris and Bejeweled, where the player must swipe blocks left/right in order to make 3+ blocks of the same color in a row or column. I added in an AI of varying difficulty to play against as well.
